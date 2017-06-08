@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Edty28OJHmXwaW6p58Jv/r2+6No=",
+			"path": "github.com/gocarina/gocsv",
+			"revision": "8482024e82190b03424659d74aad4769724af73e",
+			"revisionTime": "2017-04-18T09:09:34Z"
+		},
+		{
+			"checksumSHA1": "Urvsc0wXLKHs9FhP+hi9/JZRx2U=",
+			"path": "github.com/toorop/go-bittrex",
+			"revision": "ca71dd3098d4b6cf3a4a76f0901207f0d7c73bca",
+			"revisionTime": "2017-03-08T10:50:03Z"
+		},
+		{
+			"checksumSHA1": "4EOzuD7cPBRc23sPoF9T0+00brk=",
+			"path": "github.com/urfave/cli",
+			"revision": "d70f47eeca3afd795160003bc6e28b001d60c67c",
+			"revisionTime": "2017-05-06T04:25:29Z"
+		}
+	],
+	"rootPath": "github.com/dyzz/bittrex"
+}
